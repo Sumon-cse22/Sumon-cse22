@@ -7,7 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on [github](https://github.com/Sumon-cse22)
+
 - 🌱 I’m currently learning **C and C++**
+
+- 🤝 I’m looking for help with [Programiz](https://www.programiz.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sumon-cse22](https://github.com/Sumon-cse22)
 
